@@ -1,0 +1,14 @@
+/Users/barbara/Projects/MNS/MNS/bin/Debug/net8.0/MNS
+/Users/barbara/Projects/MNS/MNS/bin/Debug/net8.0/MNS.deps.json
+/Users/barbara/Projects/MNS/MNS/bin/Debug/net8.0/MNS.runtimeconfig.json
+/Users/barbara/Projects/MNS/MNS/bin/Debug/net8.0/MNS.dll
+/Users/barbara/Projects/MNS/MNS/bin/Debug/net8.0/MNS.pdb
+/Users/barbara/Projects/MNS/MNS/obj/Debug/net8.0/MNS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbara/Projects/MNS/MNS/obj/Debug/net8.0/MNS.AssemblyInfoInputs.cache
+/Users/barbara/Projects/MNS/MNS/obj/Debug/net8.0/MNS.AssemblyInfo.cs
+/Users/barbara/Projects/MNS/MNS/obj/Debug/net8.0/MNS.csproj.CoreCompileInputs.cache
+/Users/barbara/Projects/MNS/MNS/obj/Debug/net8.0/MNS.dll
+/Users/barbara/Projects/MNS/MNS/obj/Debug/net8.0/refint/MNS.dll
+/Users/barbara/Projects/MNS/MNS/obj/Debug/net8.0/MNS.pdb
+/Users/barbara/Projects/MNS/MNS/obj/Debug/net8.0/MNS.genruntimeconfig.cache
+/Users/barbara/Projects/MNS/MNS/obj/Debug/net8.0/ref/MNS.dll
